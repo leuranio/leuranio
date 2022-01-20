@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img title='Leran Card' src="assets/card.png">
+    <img title='Leran Card' src="assets/card.gif">
 </div>
 
 ___
