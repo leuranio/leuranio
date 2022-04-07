@@ -1,1 +1,1 @@
-<img src="assets/base.png">
+<img src="assets/python_animation.gif">
