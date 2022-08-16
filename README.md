@@ -1,13 +1,32 @@
 # leuranio readme
 <div align="center">
-    <img src="assets/spinning_fan.gif">
-    <br>
-    <code><img height="25" src="assets/python.png"></code>
-    <code><img height="25" src="assets/java.png"></code>
-    <code><img height="25" src="assets/terminal.png"><code>
+    <i>
+    I'm Leuranio and I love to program.
+    </i>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=leuranio&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+[![Érik's GitHub stats](https://github-readme-stats.vercel.app/api?username=leuranio&hide=prs&theme=light&count_private=true&hide_border=true&show_icons=true&border_radius=30&icon_color=68D89B&custom_title=Leuranio)](https://github.com/leuranio)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=leuranio.leuranio)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=leuranio)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317s7twra5urbqc6tg5nsmbzzroa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]()
+
+<code>
+    <a href="https://wikipedia.org/wiki/Computer_terminal">
+        <img height="25" src="assets/terminal.png">
+    </a>
+<code>
+<code>
+    <a href="https://www.python.org/">
+        <img height="25" src="assets/python.png">
+    </a>
+<code>
+<code>
+    <a href="https://www.java.com/">
+        <img height="25" src="assets/java.png">
+    </a>
+<code>
 </div>
 
+<!---
+Spotify github profile: https://github.com/kittinan/spotify-github-profile
+-->
