@@ -14,17 +14,17 @@
     <a href="https://wikipedia.org/wiki/Computer_terminal">
         <img height="25" src="assets/terminal.png">
     </a>
-<code>
+</code>
 <code>
     <a href="https://www.python.org/">
         <img height="25" src="assets/python.png">
     </a>
-<code>
+</code>
 <code>
     <a href="https://www.java.com/">
         <img height="25" src="assets/java.png">
     </a>
-<code>
+</code>
 </div>
 
 <!---
