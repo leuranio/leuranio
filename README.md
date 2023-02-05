@@ -10,21 +10,15 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317s7twra5urbqc6tg5nsmbzzroa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<code>
-    <a href="https://wikipedia.org/wiki/Computer_terminal">
+<a href="https://wikipedia.org/wiki/Computer_terminal">
         <img height="25" src="assets/terminal.png">
-    </a>
-</code>
-<code>
-    <a href="https://www.python.org/">
+</a>
+<a href="https://www.python.org/">
         <img height="25" src="assets/python.png">
-    </a>
-</code>
-<code>
-    <a href="https://www.java.com/">
+</a>
+<a href="https://www.java.com/">
         <img height="25" src="assets/java.png">
-    </a>
-</code>
+</a>
 </div>
 
 <!---
